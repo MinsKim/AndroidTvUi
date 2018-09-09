@@ -20,10 +20,6 @@ import android.os.Bundle;
 /*
  * MainActivity class that loads {@link MainFragment}.
  * hello~~~~~~~~~~~~~~~~~!!!!!!! git
- *
- * asdflijaleigjoairjg;aorg;oiarg;oiharo;giha;orh
- * owaireg;oaihrg;oiha
- *
  */
 public class MainActivity extends Activity {
 
