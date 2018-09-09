@@ -20,6 +20,8 @@ import android.os.Bundle;
 /*
  * MainActivity class that loads {@link MainFragment}.
  * hello~~~~~~~~~~~~~~~~~!!!!!!! git
+ * master commit minseok kim !!!
+ * 
  */
 public class MainActivity extends Activity {
 
